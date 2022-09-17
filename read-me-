@@ -25,6 +25,8 @@ c-pegarlo en el buscador del inicio d emi visual y me va dar la opcio de meter e
 solo hare cambios y pondre para subir mis cambios del visual 
 <!-- git add . -->
 <!-- git commit -m "commit=mensaje de mi caja" -->
+git config --global --edit
+git commit --amend --reset-author
 <!-- git push  -->
  
 ----------------------------------------------------------------------------------------
