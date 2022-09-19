@@ -1,4 +1,4 @@
-🧚🏻‍♀️ Pasos git y github 
+🧚🏻‍♀️ Pasos git y github 🧚🏻‍♀️
 
 a-creo mi new repo en git hub
 b-abro mi visual y tengo que estar dentri del proyecto (carpeta) en la cual estoy trabajando o voy a trabajar
@@ -50,6 +50,47 @@ solo hare cambios y pondre para subir mis cambios del visual
     
 </body>
 </html>-->
+
+
+✨Listas en html 
+<ol>lista ordenada, da numeros al principio</ol>
+<ul>no da numeros, sino que puntos po defecto</ul>
+<li>hijos de ol o ul</li>
+
+Ejemplo:
+lista ol, ul y anidada (meter una ol dentro de un a ul o al reves y con sus etiquetas "li")
+<ol>
+    <li> vegetales</li>  
+        <ul> 
+           <li>tomate</li>
+           <li>cebolaa</li> 
+        </ul>
+    <li>Hola 2</li>
+    <li> hola 3</li>
+    <li> Hola 4 </li>
+
+</ol>
+
+
+✨Títulos en html 
+<h1 class="h1">Compras súper</h1> 
+<!-- solo puedo tener un h1 por documento html idealmente y desde el h2 en adelnte, los que quieras! -->
+<P class="ejemplo-eticketa-línea"></P> <!-- ejemplo de parrado dentro de un título -->
+<h2 class="h2">vegetales</h2>
+<h3>papas </h3>
+<h3>pepino</h3>
+<h3>tomate </h3>
+<h4>no te olvides de la zanahoria</h4>
+<h5> casi no se usa</h5>
+<h6>casi no se usa </h6>
+
+
+✨Etiquetas de línea y bloque 
+
+
+
+
+
 ----------------------------------------------------------------------------------------
 🧚🏻‍♀️ Pasos css
 
@@ -72,33 +113,4 @@ id #id (mas especifico)
 class .clase (especidicidad intermedia )
 
 ----------------------------------------------------------------------------------------
-✨Títulos en html 
-<h1 class="h1">Compras súper</h1> 
-<!-- solo puedo tener un h1 por documento html idealmente y desde el h2 en adelnte, los que quieras! -->
-<P class="ejemplo-eticketa-línea"></P> <!-- ejemplo de parrado dentro de un título -->
-<h2 class="h2">vegetales</h2>
-<h3>papas </h3>
-<h3>pepino</h3>
-<h3>tomate </h3>
-<h4>no te olvides de la zanahoria</h4>
-<h5> casi no se usa</h5>
-<h6>casi no se usa </h6>
-----------------------------------------------------------------------------------------
-✨Listas en html 
-<ol>lista ordenada, da numeros al principio</ol>
-<ul>no da numeros, sino que puntos po defecto</ul>
-<li>hijos de ol o ul</li>
 
-Ejemplo:
-lista ol, ul y anidada (meter una ol dentro de un a ul o al reves y con sus etiquetas "li")
-<ol>
-    <li> vegetales</li>  
-        <ul> 
-           <li>tomate</li>
-           <li>cebolaa</li> 
-        </ul>
-    <li>Hola 2</li>
-    <li> hola 3</li>
-    <li> Hola 4 </li>
-
-</ol>

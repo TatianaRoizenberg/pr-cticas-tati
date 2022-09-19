@@ -1,0 +1,11 @@
+<!-- clase 1 programa  -->
+-Estructura html 
+-Listas ordenadas, desordenadas y anidadas 
+-Headers html (h1) a (h6)
+-Etiquetas de línea y de bloque 
+-Conexión css con html 
+-Normalize css
+-Especificidad de etiquetas en css. *normalize id,class, etiquetas. ej "body"
+-Bajar extensiones 
+(live server)
+(indent-rainbow)
