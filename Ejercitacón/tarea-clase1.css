@@ -1,0 +1,52 @@
+/* *NORMALIZE */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    
+   
+} 
+body {background-image: url(../imagenes/fondopagina.png);
+
+}
+
+.estilos {
+    display: flex;
+    background-color: aquamarine;
+    height: 25vh;
+    width: 30vh;
+    padding: 2rem;
+    border: solid 10px purple;
+    margin: 2rem;
+    font-size: x-small;
+    font-family: monospace;
+
+}
+
+.olejemplo {
+    background-color: blueviolet;
+}
+
+.papas {
+    background-color: aqua;
+}
+
+.estilo-h1 
+{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(22, 72, 55);
+    height: 25vh;
+    width: 30vh;
+    padding: 2rem;
+    border: solid 10px rgb(32, 11, 32);
+    margin: 2rem;
+    font-size: x-small;
+    font-family: monospace;
+
+
+}
